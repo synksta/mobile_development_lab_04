@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mobile_development_lab_04</string>
+    <string name="button_true_text">True</string>
+    <string name="button_false_text">False</string>
+    <string name="button_next_text">Next</string>
+    <string name="button_try_again_text">Try Again</string>
 </resources>
